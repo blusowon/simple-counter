@@ -3,7 +3,7 @@ let count = 0;
 //Titolo h1
 const h1Title = document.createElement("h1");
 h1Title.className = "title";
-h1Title.innerHTML = "Counter Antistress!";
+h1Title.innerHTML = "Counter Antistress";
 document.body.appendChild(h1Title);
 
 //contatore
